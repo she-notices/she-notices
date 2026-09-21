@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://YOUR-USERNAME.github.io/she-notices/sitemap.xml
+
+Sitemap: https://radofalason14-lab.github.io/she-notices/sitemap.xml
